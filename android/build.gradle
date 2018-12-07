@@ -42,7 +42,7 @@ repositories {
 }
 
 dependencies {
-    implementation 'com.android.support:support-v4:27.+'
+    compile 'com.android.support:support-v4:27.+'
 
-    api 'com.facebook.react:react-native:+'
+    compile 'com.facebook.react:react-native:+'
 }
